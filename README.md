@@ -8,19 +8,31 @@ Step2: Convert dataset into balanced class dataset - for this step, use imbalanc
 
 Step3: Create five samples - Apply five different sampling techniques.
 The five sampling methods used in this code are:
+
   (i) Simple Random Sampling: sample size = floor((Z^2*p*(1-p))/(e^2))
+
   (ii) Systematic Sampling: step_size=8
+  
   (iii) Stratified Sampling: sample size = floor((Z*2*p*(1-p))/(e^2*S))
+  
   (iv) Cluster Sampling: sample size = floor((Z*2*p*(1-p))/(e^2*C))
+  
   (v) Conveniece Sampling: 50 from head, 50 from tail
+  
   
   Step4: Apply the different sampling techniques on five different ML models.
   The five ML models used are:
-    (i) K-Nearest Neighbor Classification
-    (ii) Logistic Regression
-    (iii) Decision Tree Classification
-    (iv) Random Forest Classification
-    (v) Gaussian Naive Bayes Classification
+  
+   (i) K-Nearest Neighbor Classification
+    
+   (ii) Logistic Regression
+    
+   (iii) Decision Tree Classification
+    
+   (iv) Random Forest Classification
+    
+   (v) Gaussian Naive Bayes Classification
+   
     
 ACCURACY TABLE:
 
