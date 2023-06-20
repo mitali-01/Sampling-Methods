@@ -1,5 +1,5 @@
-# Sampling_Assignment_UCS654
-assignment based on sampling methods in machine learning
+Sampling Methods
+Comparison of different sampling methods in machine learning for a given dataset.
 
 
 Step1: Download dataset from https://github.com/AnjulaMehto/Sampling_Assignment/blob/main/Creditcard_data.csv
